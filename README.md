@@ -14,7 +14,7 @@ The system provides permanent context through the `.ai/memory/` folder. This all
 
 To get an idea of how to use Task Magic in your own projects, check out the video walkthrough below (and also subscribe to the channel, obvs).
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XBu8KeWuQbM?si=SdxH-FOH0_mVgYPZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![I built a task manager that makes Cursor "JUST WORK"](https://img.youtube.com/vi/XBu8KeWuQbM/0.jpg)](https://www.youtube.com/watch?v=XBu8KeWuQbM)
 
 ## How it works
 
